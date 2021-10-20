@@ -82,3 +82,4 @@ matriz = confusion_matrix(classe_teste, previsoes)
 
 resultado = classificador.evaluate(previsores_teste, classe_teste)
 
+# teste de alteração para upload no github
